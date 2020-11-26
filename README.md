@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+
+
+<!-- 例えばやっぱり変更点を加えたいってなったらどうするのか？ -->
